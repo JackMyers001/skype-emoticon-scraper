@@ -27,7 +27,7 @@ impl SkypeClient {
     const CONFIG_API_BASE_URL: &'static str = "https://config.edge.skype.com/config/v1/Skype";
     const EMOTICON_API_BASE_URL: &'static str =
         "https://static-asm.secure.skypeassets.com/pes/v1/emoticons";
-    pub const SKYPE_CLIENT_VERSION: &'static str = "1418_8.123.0.203";
+    pub const SKYPE_CLIENT_VERSION: &'static str = "1418_8.129.0.202";
 
     pub fn new() -> Self {
         let client = reqwest::Client::new();

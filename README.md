@@ -14,7 +14,7 @@ If you just want all emoticons at full resolution (240x240), I have pre-packaged
 ## Roadmap
 
 - [x] Download emoticons and convert to images
-- [ ] Non-flat (detailed?) emoticon variants, if available
+- [ ] Non-flat (detailed?) emoticon variants
 - [ ] Diverse emoticon variants
 
 ## Installation

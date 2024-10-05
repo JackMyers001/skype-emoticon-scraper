@@ -7,7 +7,7 @@ If you just want all emoticons at full resolution (240x240), I have pre-packaged
 ## Features
 
 - Fast
-- Emoticons are downloaded directly from Skype, at full quality
+- Emoticons are downloaded directly from Skype at full quality and with transparency
 - Supports all available emoticon resolutions
 - Animated emoticons start at the right frame
 

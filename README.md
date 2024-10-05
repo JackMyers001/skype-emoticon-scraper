@@ -11,6 +11,12 @@ If you just want all emoticons at full resolution (240x240), I have pre-packaged
 - Supports all available emoticon resolutions
 - Animated emoticons start and run at the correct frame and speed
 
+## Roadmap
+
+- [x] Download emoticons and convert to images
+- [ ] Non-flat (detailed?) emoticon variants, if available
+- [ ] Diverse emoticon variants
+
 ## Installation
 
 ### Requirements

@@ -1,15 +1,15 @@
 # Skype Emoticon Scraper
 
-A simple CLI utility to download emoticons (emoji) from Skype, as `.png` and `.gif`.
+A simple CLI utility to download emoticons (emoji) from Skype as `.png` and `.gif`. Emoticons are saved with full quality, transparency, and correct animation speed.
 
 If you just want all emoticons at full resolution (240x240), I have pre-packaged the current emoticon set (as of 2024-10-05) and added it to [the Releases section](https://github.com/JackMyers001/skype-emoticon-scraper/releases).
 
 ## Features
 
 - Fast
-- Emoticons are downloaded directly from Skype at full quality and with transparency
+- Emoticons are downloaded directly from Skype
 - Supports all available emoticon resolutions
-- Animated emoticons start at the right frame
+- Animated emoticons start and run at the correct frame and speed
 
 ## Installation
 
